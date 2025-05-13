@@ -51,7 +51,7 @@ $IMG_URL = 'https://image.tmdb.org/t/p/w500';
   </nav>
   <div class="text-box">
     <h1>The World's Streaming Platform</h1>
-    <p>The number one platform where you can keep up with your movies</p>
+    <p>The number one platform where you can keep up with your movies!</p>
     <!--<a href="#" class="hero-btn">WATCH</a> </div>-->
 </section>
 
